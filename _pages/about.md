@@ -1,11 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+[cite_start]I am a highly motivated biological sciences undergraduate at Northwest A&F University with dual expertise in wet-lab assays and dry-lab bioinformatics[cite: 29, 67]. [cite_start]My research interests include plant genetics, GWAS, and protein interaction, and I am dedicated to driving impactful scientific discoveries[cite: 68, 69].
+
+## Education
+* [cite_start]Bachelor of Science: Biological Sciences, Northwest A&F University (Expected 2027-07) [cite: 27, 28, 29]
+* [cite_start]Summer School: Biology, Westlake University (2025-07 - 2025-08) [cite: 32, 33, 34]
+
+## Skills
+* [cite_start]**Wet Lab:** Protein expression & purification, Laser confocal microscopy, RT-qPCR, Co-IP and Pulldown [cite: 12, 13, 14, 15]
+* [cite_start]**Dry Lab & Bioinfo:** GWAS & Omics analysis, Protein structure prediction, Protein Interaction prediction [cite: 16, 17, 18, 19]
+* [cite_start]**Programming & Tools:** Python, R, Linux / Command Line, AlphaFold [cite: 20, 21, 22]
+
+## Research Experience
+* [cite_start]**Wet Lab Intern**, Prof. Chen Kunming's Lab, NWAFU (2024-05 - 2025-12) [cite: 47, 48, 49]
+* [cite_start]**Bioinformatics Intern**, Xinjiang Academy of Agricultural Sciences (2025-05 - 2026-01) [cite: 51, 52, 53]
+* [cite_start]**Visiting Student**, Prof. Chai Jijie's Lab, Westlake University (2025-07 - 2025-08) [cite: 56, 57, 58]
+* [cite_start]**Wet Lab Leader**, iGEM Team, NWAFU (2025-11 - Current) [cite: 61, 62, 63]
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
